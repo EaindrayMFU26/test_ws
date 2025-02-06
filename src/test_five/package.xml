@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>test_five</name>
+  <version>0.0.1</version>
+  <description>Custom ROS2 package using test_five_msgs</description>
+  <maintainer email="user@example.com">User</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>std_msgs</depend>
+  <depend>test_five_msgs</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

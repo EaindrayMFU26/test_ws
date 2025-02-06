@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ros25/ros2/pupper_ws/install/champ_bringup/local/lib/python3.10/dist-packages",
+        "/home/ros25/ros2/pupper_ws/build/mini_pupper_driver",
+        "/home/ros25/ros2/pupper_ws/install/mini_pupper_driver/lib/python3.10/site-packages",
+        "/home/ros25/ros2/pupper_ws/install/champ_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ros25/ros2/pupper_ws/install/champ_bringup/local/lib/python3.10/dist-packages",
+        "/home/ros25/ros2/pupper_ws/build/mini_pupper_driver",
+        "/home/ros25/ros2/pupper_ws/install/mini_pupper_driver/lib/python3.10/site-packages",
+        "/home/ros25/ros2/pupper_ws/install/champ_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
